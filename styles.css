@@ -1,3 +1,6 @@
 body{
-    background-color: gray;
+    background-color: #AAAAAA; /* Used a color palette picker to find a color, wanted to choose something close to gray */
+}
+hr{
+    color: ghostwhite; /* Pulled a line break from our CSS and HTML intro notes. Like the look of breaking the footer and main content. */
 }
