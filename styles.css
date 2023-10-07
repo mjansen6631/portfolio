@@ -4,3 +4,23 @@ body{
 hr{
     color: ghostwhite; /* Pulled a line break from our CSS and HTML intro notes. Like the look of breaking the footer and main content. */
 }
+header{ 
+    text-align: center;
+    padding: 20px;
+    background-color: #B7999C;
+    margin: 25px 25px 25px;
+    border-radius: 5px;
+    font-size: 36px;
+}/* 
+    Borrowing from Replit notes, used my process to center and enlarge text of heading.
+*/
+nav{
+    position: sticky; top : 50px;
+    background-color: #5B8266;
+}
+.container{
+    display: grid; 
+}
+#authorPhoto{
+
+}
