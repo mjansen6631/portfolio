@@ -11,18 +11,18 @@ header{
     margin: 25px 25px 25px;
     border-radius: 5px;
     font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
 }/* 
     Borrowing from Replit notes, used my process to center and enlarge text of heading.
 */
 nav{
-    background-color: #5B8266;
-    display: block;
-    justify-content:space-between;
+    background-color: #5B8266;/* For the life of me I couldn't make sense of how to style my navbar, I tried the nav tag and #navbar and couldn't find the way to style my links to space them better. */
 }
 #flex-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card{
     background-color: #B4CDED;
@@ -30,3 +30,5 @@ nav{
     padding: 7px;
     width: 30%
 }
+
+/* CSS was definitely a challenge for me, I understand it but it doesn't grab me. I will revisit my project with fresh eyes and work on it more because I know I hit the rubric goals but know I can add more style/content. */
