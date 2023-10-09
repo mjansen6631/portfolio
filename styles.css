@@ -15,12 +15,5 @@ header{
     Borrowing from Replit notes, used my process to center and enlarge text of heading.
 */
 nav{
-    position: sticky; top : 50px;
     background-color: #5B8266;
-}
-.container{
-    display: grid; 
-}
-#authorPhoto{
-
 }
